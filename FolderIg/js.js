@@ -1,1 +1,1 @@
-wtr
+console.log("Dupadupa 47")
